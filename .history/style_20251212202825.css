@@ -2,8 +2,8 @@
   --bg: #0b1220;
   --fg: #e5e7eb;
   --muted: #a7b0c0;
-  --card: rgba(255,255,255,0.14);
-  --card-border: rgba(255,255,255,0.25);
+  --card: rgba(255,255,255,0.06);
+  --card-border: rgba(255,255,255,0.10);
 }
 
 *{ box-sizing:border-box; }
